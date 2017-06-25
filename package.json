@@ -1,5 +1,5 @@
 {
-  "name": "fork-swagger-js-codegen-with-responsetypes",
+  "name": "fork-swagger-js-codegen-dovjar",
   "main": "./lib/codegen.js",
   "version": "1.1.1",
   "description": "A Swagger codegen for JavaScript fork, with support for responsetypes",
@@ -11,11 +11,11 @@
     "swagger2ts": "bin/swagger2ts.js"
   },
   "bugs": {
-    "url": "https://github.com/mtennoe/swagger-js-codegen/issues"
+    "url": "https://github.com/dovjar/swagger-js-codegen/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mtennoe/swagger-js-codegen.git"
+    "url": "git://github.com/dovjar/swagger-js-codegen.git"
   },
   "keywords": [
     "swagger",
@@ -26,7 +26,7 @@
     "email": "mariust@outlook.com"
   },
   "license": "Apache-2.0",
-  "homepage": "https://github.com/mtennoe/swagger-js-codegen",
+  "homepage": "https://github.com/dovjar/swagger-js-codegen",
   "dependencies": {
     "commander": "^2.9.0",
     "js-beautify": "^1.5.1",
